@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leveraging Machine Learning to Predict Hospital Readmissions: A Comprehensive Analysis
+title: Leveraging Machine Learning to Predict Hospital Readmissions - A Comprehensive Analysis
 subtitle: Leveraging Advanced Predictive Models to Improve Patient Outcomes and Healthcare Efficiency
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
