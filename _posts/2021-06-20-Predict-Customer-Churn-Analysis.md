@@ -3,8 +3,8 @@ layout: post
 title: Predicting Customer Churn in the Fintech Industry - A Comprehensive Analysis
 subtitle: Leveraging Advanced Machine Learning Models to Improve Customer Retention Strategies
 cover-img: /assets/img/Customer churn.jpeg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/fintech.png
+share-img: /assets/img/Customer churn.jpeg
 tags: [data science, fintech, machine learning]
 author: Gowthami Yedluri
 ---
